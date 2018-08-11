@@ -1,0 +1,64 @@
+body {
+	background-color: rgb(230,230,230);
+}
+#header{
+	font-size: 40px;
+color:  #b3b3ff;
+font-family: 'Lato', sans-serif;
+text-align: center;
+	background-image: url('Images/IMG_2381.jpg'); 
+	background-size: cover;
+	padding: 120px;
+	text-shadow: 1px 1px 1px white;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+	
+
+h2 {
+	font-size: 25px;
+	color : #004080;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+} 
+
+img{
+	margin-bottom: 20px;
+	margin-top: 40px;
+}
+
+.card
+{
+	text-align: center;
+}
+
+#list{
+    text-align: center;
+    background-color:  #cccccc;
+    background-size: cover;
+    padding: 15px;
+}
+
+
+#footer{
+	font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    background-color:  #cccccc;
+    background-size: cover;
+	padding: 20px;
+	color:#4d4d4d;
+}
+
+#footer a {
+	font-size: 45px;
+}
+
+#footer a:hover {
+  color: white;
+}
